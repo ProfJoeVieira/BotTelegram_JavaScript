@@ -1,2 +1,2 @@
-# BotTelegram_JavaScript
+# BotTelegram API 
 Api for Telegram's Bot based on Node.js
